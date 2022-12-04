@@ -1301,7 +1301,7 @@ z-index:1;
 }
 .pricing .box a:hover {
   background-color: var(--main-color);
-  border-color: var(--main-color);
+  border-color: var(--main-color-alt);
   color: white;
 }
 .pricing .box.popular .label {

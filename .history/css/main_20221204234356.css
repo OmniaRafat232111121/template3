@@ -1288,22 +1288,6 @@ z-index:1;
     top: -20px;
   }
 }
-.pricing .box a {
-  display: block;
-  width: fit-content;
-  border: 2px solid var(--main-color);
-  color: var(--main-color);
-  margin: 30px auto 40px;
-  padding: 15px 20px;
-  border-radius: 6px;
-  font-weight: bold;
-  transition: var(--main-transition);
-}
-.pricing .box a:hover {
-  background-color: var(--main-color);
-  border-color: var(--main-color);
-  color: white;
-}
 .pricing .box.popular .label {
 position: absolute;
 writing-mode: vertical-rl;
