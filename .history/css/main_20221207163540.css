@@ -1413,7 +1413,7 @@ border:3px solid white;
 margin:2px;
 }
 .footer .footer-gallery img:hover{
-  transform: scale(1.3);
+  transform: ;
 }
 .footer .copyright{
  padding: 25px 0;
